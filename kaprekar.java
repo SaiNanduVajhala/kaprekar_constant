@@ -27,5 +27,6 @@ public class kaprekar {
         }
 
         System.out.println("Kaprekar Constant reached: 6174");
+        sc.close();
     }
 }
